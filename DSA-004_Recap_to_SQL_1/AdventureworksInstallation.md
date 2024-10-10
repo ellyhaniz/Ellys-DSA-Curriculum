@@ -114,7 +114,7 @@ Navigate to the directory containing the AdventureWorks files:
 Verify that you've changed to the correct directory:
 
 ```sql
-\! pwd
+\! cd
 ```
 
 - **Example Output**:
