@@ -101,7 +101,8 @@ Ensure that the `AdventureWorks-for-Postgres` directory is present in this locat
 Navigate to the directory containing the AdventureWorks files:
 
 ```sql
-\cd /path/to/AdventureWorks-for-Postgres
+\cd C:/Users/ellyh/Documents/UOW/DSA/AdventureWorks-for-Postgres
+
 ```
 
 - Replace `/path/to/AdventureWorks-for-Postgres` with the actual path to your directory.
