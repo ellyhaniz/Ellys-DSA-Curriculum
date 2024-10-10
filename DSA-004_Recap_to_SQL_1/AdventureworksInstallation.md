@@ -84,7 +84,7 @@ Launch the **SQL Shell (psql)** application:
 Within the SQL Shell, check your current working directory to ensure you are in the correct location:
 
 ```sql
-\! pwd
+\! cd
 ```
 
 - This command executes the shell command `pwd`, displaying the current directory path.
@@ -126,7 +126,7 @@ Verify that you've changed to the correct directory:
 List the files in the current directory to ensure all necessary files are present:
 
 ```sql
-\! ls
+\! l
 ```
 
 - You should see the following files:
