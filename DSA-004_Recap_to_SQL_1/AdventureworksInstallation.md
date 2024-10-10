@@ -126,7 +126,7 @@ Verify that you've changed to the correct directory:
 List the files in the current directory to ensure all necessary files are present:
 
 ```sql
-\! l
+\l
 ```
 
 - You should see the following files:
